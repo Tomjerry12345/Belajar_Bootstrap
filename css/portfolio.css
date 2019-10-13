@@ -1,0 +1,90 @@
+.background {
+    position: absolute;
+    bottom: 125px;
+}
+.background img {
+    height: 420px;
+    width: 92em;
+    -webkit-filter:brightness(50%);
+}
+
+.portfolio {
+    width: 250px;
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position: absolute;
+    left: 26%;
+    bottom: 70px;
+    width: 50em;
+    background-color: white;
+  }
+
+  .portfolio img {
+    position: relative;
+    top: 18px;
+    left: 18px;
+    width: 200px;
+    height: 250px;
+    float: left;
+  }
+  .portfolio .hello {
+      height: 30px;
+      width: 50px;
+      position: absolute;
+      top: 20px;
+      left: 230px;
+  }
+
+  .portfolio h1 {
+      position: relative;
+      top: 50px;
+      right: 73px;
+      font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  .portfolio p {
+    position: relative;
+    top: 40px;
+    right: 138px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.portfolio hr {
+    margin-top: 50px;
+    left: 18px;
+    width: 62%;
+    position: relative;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.portfolio table {
+    position: relative;
+    left: 55px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.portfolio .footer {
+    background-color: goldenrod;
+    top: 10px;
+    position: relative;
+    height: 30px;
+}
+
+.portfolio div {
+    position: relative;
+    bottom: 38px;
+}
+
+.portfolio div img {
+    width: 30px;
+    height: 30px;
+    position: relative;
+}
+
+.portfolio .teks {
+    font-family: 'Indie Flower', cursive;
+    position: absolute;
+    top: 295px;
+    left: 120px;
+}
